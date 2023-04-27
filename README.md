@@ -1,2 +1,2 @@
 # Full-Stack-Web-Development
-Showcases my Full Stck Development developing skills
+Showcases my Full Stack Development developing skills
