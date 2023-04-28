@@ -1,0 +1,92 @@
+#top_half{
+    background-color:#0cb577;
+    color: white;
+    height:540px;
+    width:100%;
+}
+
+#lower_half{
+    background-color:#6495ed;
+    height:260px;
+    width:100%;
+}
+a{
+    text-decoration:none;
+}
+
+#endpoint_title{
+    font-size:48px;
+    color: white;
+    position:absolute;
+    top: 3cm;
+    left:16cm;
+    font-family: 'Merriweather',Serif;
+}
+
+#APIKey{
+    border:2px solid lightblue;
+    width:auto;
+    height:auto;
+    position:absolute;
+    top:7cm;
+    left:16cm;
+    border-radius:10%;
+    display:none;
+}
+
+#ID{
+display:block;
+font-size:25px;
+background-color:cornflowerblue;
+
+}
+#ALL{
+    display:block;
+    font-size:25px;
+    background-color:cornflowerblue;
+}
+#TITLE{
+display:block;
+font-size:25px;
+background-color:cornflowerblue;
+}
+#API_options{
+    position:absolute;
+    top:8cm;
+    font-size:22px;
+}
+
+#prologue{
+    width: auto;
+    height:auto;
+    color:bisque;
+    position:absolute;
+    right:4cm;
+    top:7cm;
+    font-size:22px;
+    display:block;
+}
+
+#LogOut_Bar{
+    border:1px solid rgb(221, 212, 212);
+    border-radius:40%;
+    width:auto;
+    height:auto;
+    background-color:rgb(227, 221, 221);
+    color:black;
+    position:absolute;
+    right:1cm;
+    top:1cm;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+#cancel_icon{
+    position:absolute;
+    right:0px;
+}
